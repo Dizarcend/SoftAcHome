@@ -5,5 +5,12 @@ do
    echo The counter is $COUNTER 
    let COUNTER=$COUNTER+1 
 done
+<<<<<<< HEAD
 #!some first changes
+<<<<<<< HEAD
 #!changes for develop brach
+=======
+=======
+#!makes changes
+>>>>>>> first-branch
+>>>>>>> main
