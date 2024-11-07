@@ -7,10 +7,6 @@ do
 done
 <<<<<<< HEAD
 #!some first changes
-<<<<<<< HEAD
-#!changes for develop brach
-=======
 =======
 #!makes changes
 >>>>>>> first-branch
->>>>>>> main
